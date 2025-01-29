@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<bookstore bstype="simple">
+  <bsname>Libreria Paraiso</bsname>
+      <book id="1" category="cooking">
+        <title lang="en">Everyday Italian</title>
+        <author>Giada De Laurentiis</author>
+        <year>2005</year>
+        <price>30.00</price>
+      </book>
+      <book id="2" category="children">
+        <title lang="en">Harry Potter</title>
+        <author>J K. Rowling</author>
+        <year>2005</year>
+        <price>29.99</price>
+      </book>
+      <book id="3" category="mistery">
+        <title lang="en">Sherlock Holmes and his Adventures on American Radio</title>
+        <author>Ian Dickerson</author>
+        <year>2009</year>
+        <price>19.50</price>
+      </book>
+      <book id="4" category="economy">
+        <title lang="es">El inversor inteligente</title>
+        <author>Benjamin Graham</author>
+        <year>2019</year>
+        <price>24.99</price>
+      </book>
+</bookstore> 
+

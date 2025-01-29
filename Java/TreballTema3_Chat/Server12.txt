@@ -1,0 +1,3 @@
+{"missatge":"Hola","dni2":"2","dni1":"1"}
+{"missatge":"Que tal?","dni2":"1","dni1":"2"}
+{"missatge":"Hey","dni2":"2","dni1":"1"}

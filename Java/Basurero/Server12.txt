@@ -1,0 +1,14 @@
+{"missatge":"H","dni2":"2","dni1":"1"}
+{"missatge":"Que paixa","dni2":"2","dni1":"1"}
+{"missatge":"y","dni2":"2","dni1":"1"}
+{"missatge":"h","dni2":"2","dni1":"1"}
+{"missatge":"3","dni2":"2","dni1":"1"}
+{"missatge":"3","dni2":"2","dni1":"1"}
+{"missatge":"3","dni2":"2","dni1":"1"}
+{"missatge":"3","dni2":"2","dni1":"1"}
+{"missatge":"3","dni2":"2","dni1":"1"}
+{"missatge":"3","dni2":"2","dni1":"1"}
+{"missatge":"3","dni2":"2","dni1":"1"}
+{"missatge":"3","dni2":"2","dni1":"1"}
+
+HEY BILLI

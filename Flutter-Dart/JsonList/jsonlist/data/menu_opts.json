@@ -1,0 +1,20 @@
+{
+    "nomApp" : "Components",
+    "rutes" : [
+        {
+            "ruta" : "alert",
+            "icona" : "add_alert",
+            "texte": "Alertes"
+        },
+        {
+            "ruta" : "avatar",
+            "icona" : "accessibility",
+            "texte": "Avatars"
+        },
+        {
+            "ruta" : "card",
+            "icona" : "folder_open",
+            "texte": "Cards - Targetes"
+        }
+    ]
+}
