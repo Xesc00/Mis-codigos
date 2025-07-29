@@ -1,0 +1,21 @@
+C:\Users\Xesc\source\repos\Transfomrar Excel a Json\Transfomrar Excel a Json\obj\Debug\net8.0-windows\Transfomrar_Excel_a_Json.Form1.resources
+C:\Users\Xesc\source\repos\Transfomrar Excel a Json\Transfomrar Excel a Json\obj\Debug\net8.0-windows\Transfomrar Excel a Json.csproj.GenerateResource.cache
+C:\Users\Xesc\source\repos\Transfomrar Excel a Json\Transfomrar Excel a Json\obj\Debug\net8.0-windows\Transfomrar Excel a Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xesc\source\repos\Transfomrar Excel a Json\Transfomrar Excel a Json\obj\Debug\net8.0-windows\Transfomrar Excel a Json.AssemblyInfoInputs.cache
+C:\Users\Xesc\source\repos\Transfomrar Excel a Json\Transfomrar Excel a Json\obj\Debug\net8.0-windows\Transfomrar Excel a Json.AssemblyInfo.cs
+C:\Users\Xesc\source\repos\Transfomrar Excel a Json\Transfomrar Excel a Json\obj\Debug\net8.0-windows\Transfomrar Excel a Json.csproj.CoreCompileInputs.cache
+C:\Users\Xesc\source\repos\Transfomrar Excel a Json\Transfomrar Excel a Json\bin\Debug\net8.0-windows\Transfomrar Excel a Json.exe
+C:\Users\Xesc\source\repos\Transfomrar Excel a Json\Transfomrar Excel a Json\bin\Debug\net8.0-windows\Transfomrar Excel a Json.deps.json
+C:\Users\Xesc\source\repos\Transfomrar Excel a Json\Transfomrar Excel a Json\bin\Debug\net8.0-windows\Transfomrar Excel a Json.runtimeconfig.json
+C:\Users\Xesc\source\repos\Transfomrar Excel a Json\Transfomrar Excel a Json\bin\Debug\net8.0-windows\Transfomrar Excel a Json.dll
+C:\Users\Xesc\source\repos\Transfomrar Excel a Json\Transfomrar Excel a Json\bin\Debug\net8.0-windows\Transfomrar Excel a Json.pdb
+C:\Users\Xesc\source\repos\Transfomrar Excel a Json\Transfomrar Excel a Json\obj\Debug\net8.0-windows\Transfomrar Excel a Json.dll
+C:\Users\Xesc\source\repos\Transfomrar Excel a Json\Transfomrar Excel a Json\obj\Debug\net8.0-windows\refint\Transfomrar Excel a Json.dll
+C:\Users\Xesc\source\repos\Transfomrar Excel a Json\Transfomrar Excel a Json\obj\Debug\net8.0-windows\Transfomrar Excel a Json.pdb
+C:\Users\Xesc\source\repos\Transfomrar Excel a Json\Transfomrar Excel a Json\obj\Debug\net8.0-windows\Transfomrar Excel a Json.genruntimeconfig.cache
+C:\Users\Xesc\source\repos\Transfomrar Excel a Json\Transfomrar Excel a Json\obj\Debug\net8.0-windows\ref\Transfomrar Excel a Json.dll
+C:\Users\Xesc\source\repos\Transfomrar Excel a Json\Transfomrar Excel a Json\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Xesc\source\repos\Transfomrar Excel a Json\Transfomrar Excel a Json\bin\Debug\net8.0-windows\SpreadsheetLight.dll
+C:\Users\Xesc\source\repos\Transfomrar Excel a Json\Transfomrar Excel a Json\obj\Debug\net8.0-windows\Transfomrar Excel a Json.csproj.AssemblyReference.cache
+C:\Users\Xesc\source\repos\Transfomrar Excel a Json\Transfomrar Excel a Json\obj\Debug\net8.0-windows\Transfom.9D8BF5E5.Up2Date
+C:\Users\Xesc\source\repos\Transfomrar Excel a Json\Transfomrar Excel a Json\obj\Debug\net8.0-windows\Transfomrar_Excel_a_Json.InfoCliente.resources
